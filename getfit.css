@@ -1,0 +1,33 @@
+body{
+	background: url(https://static.pexels.com/photos/39688/training-train-lime-barbell-39688.jpeg);
+	background-size: cover;
+	background-position: center;
+	
+
+}
+html{
+	height: 100%;	
+}
+
+h1 {
+text-align: ;
+color: #EDF246;
+}
+#content {
+	text-align: center;
+	padding-top: 15%;
+	text-shadow: 0px 3px 3px #f6f3dc,
+				 0px 10px 40px #8d863c;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+hr{
+	width: 400px;
+	border-top: 1px solid #E3DC0;
+	border-bottom: 1px solid rgba(0,0,0,0.8)
+}
+.btn btn-defualt btn-lg{
+	background-color: black
+}
