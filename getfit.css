@@ -1,33 +1,42 @@
-body{
-	background: url(https://static.pexels.com/photos/39688/training-train-lime-barbell-39688.jpeg);
-	background-size: cover;
-	background-position: center;
-	
 
-}
-html{
-	height: 100%;	
+#content1 {
+     background: url(http://semois-semoy.org/inc/uploads/2015/12/The-Best-Running-Shoes-for-Plantar-Fasciitis-1.jpg);
+     background-size: cover;
+     background-position: center;
+     top: 0;
+     height: 1000px; 
 }
 
-h1 {
-text-align: ;
-color: #EDF246;
+#content2 {
+     margin-top: 1000px; 
 }
-#content {
-	text-align: center;
-	padding-top: 15%;
-	text-shadow: 0px 3px 3px #f6f3dc,
-				 0px 10px 40px #8d863c;
-}
-h1{
+
+.container{
+	font-family: 'Open Sans Condensed', sans-serif;
 	font-weight: 700;
-	font-size: 5em;
 }
-hr{
-	width: 400px;
-	border-top: 1px solid #E3DC0;
-	border-bottom: 1px solid rgba(0,0,0,0.8)
+#getstarted {
+	text-align: center;
+	padding-top: 22%;
+	padding-left: 55%;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
-.btn btn-defualt btn-lg{
-	background-color: black
+#getstarted p {
+	font-size: 3em;
+	color: white;
+}
+#lgbutton {
+	color: red;
+	transition: all 0.5s;
+  	cursor: pointer;
+  	margin: 5px;
+}
+#lgbutton span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+#logo i{
+	color: red;
 }
