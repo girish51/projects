@@ -1,0 +1,73 @@
+ #image1{
+     background-image: url(http://wallpapers-and-backgrounds.net/wp-content/uploads/2016/03/mma-full-hd-background_1.jpg);
+     background-size: 100% 100%;
+     background-position: center;
+     max-width: 100%;
+     height: 777px; 
+    /* position: relative;*/
+    
+}
+#image2{
+	 background-image: url(http://purocrossfit.es/wp-content/uploads/2016/01/gabriel-grobben-crossfit-06.jpg);
+      background-size: 85% 100%;
+     background-position: center;
+     width: 100%;
+     height: 750px; 
+     position: relative;
+    
+}
+#motivation {
+	text-align: center;
+	top: 60%;
+	left: 15%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: italic;
+	color: white;
+	position: absolute;
+	
+}
+#motivation p {
+	font-size: 2.5em;
+}
+#lgbutton{
+	background:white;
+	border: none;
+}
+#exercise{
+	text-align: center;
+	top: 40%;
+	left: 70%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: italic;
+	color: white;
+	position: absolute;
+}
+#image2 p {
+	font-size: 2.5em;
+	color: white;
+}
+#buttonresponse, #Worbtnresponse{
+	display: none;
+	background-color: black;
+	color: white;
+
+}
+#buttonresponse h2, #buttonresponse p, #Worbtnresponse h2, #Worbtnresponse p {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+#buttonresponse span, #Worbtnresponse span{
+	font-weight: bold;
+	text-decoration: underline;
+}
+#buttonresponse h3, #Worbtnresponse h3{
+	color: black;
+}
+#buttonresponse a {
+	color: white;
+}
+#nf img {
+	padding-left: 20%;
+	width: 400px;
+	height: 220px;
+}
